@@ -1,0 +1,7 @@
+C:\Users\Andrew\Documents\Visual Studio 2012\Projects\MissileCommand\MissileGame\bin\Debug\MissileGame.XML
+C:\Users\Andrew\Documents\Visual Studio 2012\Projects\MissileCommand\MissileGame\bin\Debug\MissileGame.dll
+C:\Users\Andrew\Documents\Visual Studio 2012\Projects\MissileCommand\MissileGame\bin\Debug\MissileGame.pdb
+C:\Users\Andrew\Documents\Visual Studio 2012\Projects\MissileCommand\MissileGame\bin\Debug\FSharp.Core.dll
+C:\Users\Andrew\Documents\Visual Studio 2012\Projects\MissileCommand\MissileGame\bin\Debug\FSharp.Core.xml
+C:\Users\Andrew\Documents\Visual Studio 2012\Projects\MissileCommand\MissileGame\obj\Debug\MissileGame.dll
+C:\Users\Andrew\Documents\Visual Studio 2012\Projects\MissileCommand\MissileGame\obj\Debug\MissileGame.pdb

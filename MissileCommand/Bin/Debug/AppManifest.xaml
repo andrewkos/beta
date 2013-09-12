@@ -1,0 +1,7 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="MissileCommand" EntryPointType="MissileCommand.App" RuntimeVersion="5.0.61118.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="MissileCommand" Source="MissileCommand.dll" />
+    <AssemblyPart x:Name="MissileGame" Source="MissileGame.dll" />
+    <AssemblyPart x:Name="FSharp.Core" Source="FSharp.Core.dll" />
+  </Deployment.Parts>
+</Deployment>
