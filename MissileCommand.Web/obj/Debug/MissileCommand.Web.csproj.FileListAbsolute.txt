@@ -1,4 +1,0 @@
-C:\Users\Andrew\Documents\Visual Studio 2012\Projects\MissileCommand\MissileCommand.Web\bin\MissileCommand.Web.dll
-C:\Users\Andrew\Documents\Visual Studio 2012\Projects\MissileCommand\MissileCommand.Web\bin\MissileCommand.Web.pdb
-C:\Users\Andrew\Documents\Visual Studio 2012\Projects\MissileCommand\MissileCommand.Web\obj\Debug\MissileCommand.Web.dll
-C:\Users\Andrew\Documents\Visual Studio 2012\Projects\MissileCommand\MissileCommand.Web\obj\Debug\MissileCommand.Web.pdb
